@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikash-In
+- 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java and JavaScript
 - 📫 How to reach me LinkedIn "vikash-kumar-1355831a1"
