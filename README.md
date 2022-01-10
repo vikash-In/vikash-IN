@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java and JavaScript
-- 📫 How to reach me LinkedIn "vikash-kumar-1355831a1"
+- 📫 How to reach me LinkedIn "vikashkum13"
 
 <!---
 vikash-In/vikash-In is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
