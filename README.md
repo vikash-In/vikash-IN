@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikash Kumar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java and JavaScript
+- 👀 I’m interested in LWC Development
+- 🌱 I’m currently learning Salesforce and JavaScript
 - 📫 How to reach me LinkedIn "vikashkum13"
 
 <!---
